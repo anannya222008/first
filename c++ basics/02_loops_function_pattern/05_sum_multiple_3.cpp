@@ -10,6 +10,6 @@ int main() {
             sum = sum+i;
         }
     }
-    cout<<"Sum of multiples of 3: "<<sum<<endl;
+    cout<<"Sum of multiples of 3 till n is: "<<sum<<endl;
     return 0;
 }
