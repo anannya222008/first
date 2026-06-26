@@ -12,8 +12,10 @@ int convert(int deciNum){
     return ans;
 }
 int main(){
-    
-    cout<<convert(56)<<endl;
+    int n;
+    cout<<"Enter a decimal number : ";
+    cin>>n;
+    cout<<convert(n)<<endl;
     return 0;
 }
     
