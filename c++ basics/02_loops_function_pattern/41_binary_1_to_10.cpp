@@ -16,7 +16,7 @@ int main(){
     cout<<"Enter a decimal number : ";
     cin>>n;
     for(int i=1;i<=10;i++){
-        cout<<convert(i)<<endl;
+        cout<<convert(i)<<endl;  
     }
     cout<<convert(n)<<endl;
     return 0;
